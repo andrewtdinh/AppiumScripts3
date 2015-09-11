@@ -1,0 +1,5 @@
+[caps]
+platformName = "android"
+app = "C:\\Appium3\\api.apk"
+deviceName = "Android"
+avd = "training"
